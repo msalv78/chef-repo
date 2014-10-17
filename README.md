@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Overview
 ========
 
@@ -64,3 +65,9 @@ Next Steps
 ==========
 
 Read the README file in each of the subdirectories for more information about what goes in those directories.
+=======
+chef-repo
+=========
+
+Repository used for the chef ecosystem.
+>>>>>>> 4fe5f558bf4225971451286b582b5a393a4cb2ba
